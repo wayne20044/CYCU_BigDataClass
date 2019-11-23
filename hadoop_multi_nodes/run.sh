@@ -1,6 +1,7 @@
 # 中原巨資 上課實驗用
 sudo addgroup hadoop
 sudo adduser --disabled-password  --gecos "" --ingroup hadoop hduser
+# 使用前請確認下載位置
 wget http://172.18.39.68/os/jdk-8u231-linux-x64.tar.gz
 wget http://172.18.39.68/os/hadoop-2.10.0.tar.gz
 sudo tar zxvf hadoop-2.10.0.tar.gz -C /usr/local/
