@@ -32,7 +32,6 @@
   # 多人使用情況下，將 .staging 目錄寫到個人的家目錄中 #
   </description>
  </property>
-
       <!--
             請參考實際機器規格進行設定
             ***** BEGIN *****
